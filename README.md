@@ -2,7 +2,7 @@
 
 ### _**About This Project:**_
 
-**PROJECT NAME** is a QL Plus Project developed by X, Y, Z, and A.
+**PROJECT NAME** is a Project S.E.R.V.E. design developed by X, Y, Z, and A.
 
 This project's ultimate goal is to X.
 
